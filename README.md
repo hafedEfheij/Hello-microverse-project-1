@@ -2,8 +2,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+ 
 
   <h3><b>Hello Microverse</b></h3>
 
@@ -31,12 +30,11 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-> HAFED EFEHIJ
 
-👤 **Author**
+👤 **HAFED EFEHIJ**
 
-- GitHub: [@githubhandle](https://github.com/hafedEfheij)
-)
+
+-  GitHub: [@hafedEfheij](https://github.com/hafedEfheij)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -44,6 +42,6 @@
 
 ## 📝 License <a name="license"></a>
 
-This project is MIT(./MIT.md) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
